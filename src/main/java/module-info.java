@@ -4,4 +4,5 @@ module br.com.joaocarloslima {
 
     opens br.com.joaocarloslima to javafx.fxml;
     exports br.com.joaocarloslima;
+    
 }
